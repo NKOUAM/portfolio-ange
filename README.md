@@ -1,60 +1,117 @@
-# Porfolio
+# 🚀 Portfolio Ange Guilbert
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
+Portfolio personnel cyberpunk — **Creative Developer & Software Engineer in Progress**.
 
-## Development server
+> Développement web, architecture logicielle, systèmes, création numérique et entrepreneuriat.
 
-To start a local development server, run:
+---
 
-```bash
-ng serve
+## 🎨 Direction artistique
+
+- 🌑 Fond noir profond
+- 💎 Néons multicolores (cyan, violet, rose, vert)
+- ✨ Animations fluides, particules, curseur néon personnalisé
+- 🔮 Interface holographique et cartes vitrées
+- 🎯 Animations au scroll
+
+---
+
+## 🛠️ Stack technique
+
+| Technologie | Rôle |
+|---|---|
+| **Angular 20** | Framework principal (standalone components) |
+| **TypeScript** | Typage strict, signals |
+| **Bootstrap 5** | Grille responsive, utilitaires |
+| **Bootstrap Icons** | Icônes vectorielles |
+| **CSS custom** | Néons, halos, animations, glassmorphism |
+| **Zone.js** | Détection de changements Angular |
+
+---
+
+## 📦 Structure du projet
+
+```
+src/app/
+├── components/       → navbar, hero, about, skills, projects, experience…
+├── data/             → portfolio.data.ts (toutes les données)
+├── directives/       → reveal.directive.ts (animations au scroll)
+├── app.ts            → composant racine
+└── app.config.ts     → configuration Angular
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Lancer en local
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+### Prérequis
+- Node.js ≥ 20.9
+- npm
 
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+### Installation & démarrage
 
 ```bash
-ng generate --help
+npm install
+ng serve --open
 ```
 
-## Building
+→ Le portfolio s'ouvre sur **http://localhost:4200**
 
-To build the project run:
+### Build production
 
 ```bash
-ng build
+ng build --configuration production
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+Les fichiers optimisés seront dans `dist/porfolio/`.
 
-## Running unit tests
+---
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+## 📊 Contenu du portfolio
 
-```bash
-ng test
-```
+### 🧠 Compétences (5 domaines)
 
-## Running end-to-end tests
+1. **Développement Web** — Angular, TypeScript, Next.js, React, RxJS, Bootstrap
+2. **Architecture & Ingénierie** — Clean Architecture, DDD, JWT, Swagger
+3. **Systèmes & Télécoms** — Linux, VMs, Asterisk, PJSIP, SIP
+4. **Création Numérique** — Direction artistique King-G, pochettes, affiches
+5. **Entrepreneuriat & Agronomie** — GOLDEN SKY LTD, arboriculture, apiculture
 
-For end-to-end (e2e) testing, run:
+### 📦 Projets (11)
 
-```bash
-ng e2e
-```
+KFOKAM48 Fullstack · Gestion de Stock v2 · NKOUAM & Fils · Bibliothèque Kamgaing · DJANGUI SPACE · MusicHub · Deifict Crafts · Clinique Médicale · Portfolio v1 · SuperApp · G.K-Dev
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+### 🌍 Autres univers
 
-## Additional Resources
+- **King-G** — Univers artistique musical
+- **GOLDEN SKY LTD** — Entrepreneuriat agronome
+- **Agronomie & Nature** — Vergers et apiculture
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
-# portfolio-ange
+---
+
+## 👤 Auteur
+
+**Ange Guilbert (NKOUAM)**
+
+- 🐙 GitHub : [@NKOUAM](https://github.com/NKOUAM)
+- 📧 Email : [angeguilbert10@gmail.com](mailto:angeguilbert10@gmail.com)
+- 📍 Localisation : Cameroun
+
+### Organisations
+
+- [@KFOKAM48-SPECIALISATION](https://github.com/KFOKAM48-SPECIALISATION)
+- [@gestion-de-stock-v2](https://github.com/gestion-de-stock-v2)
+- [@kfokam48-epreuve-192](https://github.com/kfokam48-epreuve-192)
+
+### Achievements GitHub
+
+- 🦈 **Pull Shark**
+- 🎯 **YOLO**
+
+---
+
+## 📝 Licence
+
+© 2026 Ange Guilbert — Tous droits réservés.
+
+Portfolio conçu avec curiosité et beaucoup de lignes de code. ✨
